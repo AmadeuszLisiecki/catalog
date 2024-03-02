@@ -23,6 +23,6 @@ Product details are downloaded from [details API](https://mate-academy.github.io
 [Catalog Figma](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2)
 
 # Run local project
-- Install ``` npm i```
+- Install ```npm i```
 - Run ```npm start```
 - The site should automatically start at localhost:3000.
